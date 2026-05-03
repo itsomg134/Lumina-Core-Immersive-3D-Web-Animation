@@ -1,6 +1,4 @@
-Here is a professional GitHub README.md file for your web animation project.
-```markdown
-# ✨ Lumina Core – Immersive 3D Web Animation
+#  Lumina Core – Immersive 3D Web Animation
 
 ![Preview](https://via.placeholder.com/800x400?text=Lumina+Core+Animation)  
 *A dynamic, interactive 3D particle universe built with Three.js.*
@@ -12,7 +10,7 @@ Lumina Core is a visually stunning web animation experience featuring a glowing 
 
 ---
 
-## 🌟 Features
+##  Features
 
 - **Central Animated Geometry** – A metallic torus knot with a glowing inner sphere, rotating in 3D space.
 - **Massive Particle Systems** – Over 14,000 colored particles forming a nebula-like cloud, plus distant stars and floating dust.
@@ -23,7 +21,7 @@ Lumina Core is a visually stunning web animation experience featuring a glowing 
 
 ---
 
-## 🎮 Controls & Interaction
+##  Controls & Interaction
 
 | Action                     | Effect                                 |
 | -------------------------- | -------------------------------------- |
@@ -33,7 +31,7 @@ Lumina Core is a visually stunning web animation experience featuring a glowing 
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - [Three.js](https://threejs.org/) (r128) – Core 3D library
 - HTML5 / CSS3 – Overlay styling & responsive layout
@@ -42,7 +40,7 @@ Lumina Core is a visually stunning web animation experience featuring a glowing 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -69,7 +67,7 @@ Then open `http://localhost:8000` in your browser.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 lumina-core/
@@ -81,7 +79,7 @@ All code (styles, markup, and Three.js logic) is contained in a single `index.ht
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 Want to tweak the visuals? Look for these sections in the code:
 
