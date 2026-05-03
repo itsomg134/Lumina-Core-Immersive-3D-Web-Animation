@@ -1,7 +1,6 @@
 #  Lumina Core – Immersive 3D Web Animation
 
-![Preview](https://via.placeholder.com/800x400?text=Lumina+Core+Animation)  
-*A dynamic, interactive 3D particle universe built with Three.js.*
+<img width="1909" height="909" alt="image" src="https://github.com/user-attachments/assets/822171be-1b4a-4548-821e-7c13271f438d" />
 
 Lumina Core is a visually stunning web animation experience featuring a glowing torus knot at its heart, surrounded by thousands of colorful particles, dynamic lighting, and subtle mouse-driven parallax. It’s designed to showcase the creative potential of real-time 3D graphics in the browser.
 
