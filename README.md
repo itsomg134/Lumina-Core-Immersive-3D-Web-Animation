@@ -94,7 +94,7 @@ Want to tweak the visuals? Look for these sections in the code:
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Scene Setup** – A dark blue foggy backdrop with multiple light sources.
 2. **Core Object** – A torus knot and inner sphere rotate at different rates.
@@ -105,7 +105,7 @@ Want to tweak the visuals? Look for these sections in the code:
 
 ---
 
-## 🌍 Browser Support
+##  Browser Support
 
 Works on all modern browsers that support WebGL:
 
@@ -116,7 +116,7 @@ Works on all modern browsers that support WebGL:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, ideas, and improvements are welcome!  
 Feel free to open an issue or submit a pull request.
@@ -129,27 +129,15 @@ Feel free to open an issue or submit a pull request.
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with [Three.js](https://threejs.org/) – the amazing 3D library for the web.
 - Inspiration from cosmic art and generative particle aesthetics.
 - Fonts from Google Fonts (Poppins) via system fallback.
 
----
-
-## 📬 Contact
-
-Your Name – [@yourhandle](https://twitter.com/yourhandle) – email@example.com
-
-Project Link: [https://github.com/your-username/lumina-core](https://github.com/your-username/lumina-core)
-
----
-
-*Made with ✨ and JavaScript*
-```
